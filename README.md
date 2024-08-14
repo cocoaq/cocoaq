@@ -1,5 +1,5 @@
 ## Hellow world
-<img src="[이미지 URL](https://github.com/cocoaq/cocoaq/blob/main/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8141.png)" alt="메인이미지">
+<img src="https://github.com/cocoaq/cocoaq/blob/main/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8141.png" alt="메인이미지">
 <!--
 **cocoaq/cocoaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
