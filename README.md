@@ -2,11 +2,10 @@
 <div align="center"> 
 <img src="https://github.com/cocoaq/cocoaq/blob/main/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8141.png" alt="메인이미지">
 
-
-<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=cocoaq&theme=cobalt&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoaq&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <!--
